@@ -812,7 +812,7 @@ section {
 
 .services .icon-box .icon img {
   position: absolute;
-  height: 200px;
+  height: 2xpx;
   top: 0;
   left: 0;
 }
